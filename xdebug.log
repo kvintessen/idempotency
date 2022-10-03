@@ -1,0 +1,168 @@
+[18] Log opened at 2022-10-03 18:36:45.430993
+[18] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[18] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[18] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[43] Log opened at 2022-10-03 18:36:46.711867
+[43] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[43] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[43] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[43] Log closed at 2022-10-03 18:36:46.712454
+
+[281] Log opened at 2022-10-03 18:37:17.598033
+[281] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[281] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[281] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[281] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[281] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[281] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[281] Log closed at 2022-10-03 18:37:17.703541
+
+[286] Log opened at 2022-10-03 18:37:17.761360
+[286] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[286] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[286] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[286] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[286] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[286] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[286] Log closed at 2022-10-03 18:37:17.842022
+
+[291] Log opened at 2022-10-03 18:37:17.897860
+[291] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[291] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[291] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[291] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[291] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[291] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[291] Log closed at 2022-10-03 18:37:17.975480
+
+[18] Log closed at 2022-10-03 18:37:18.000192
+
+[15] Log opened at 2022-10-03 18:59:11.145655
+[15] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[15] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[15] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[31] Log opened at 2022-10-03 18:59:11.699684
+[31] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[31] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[31] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[31] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[31] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[31] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[31] Log closed at 2022-10-03 18:59:11.801373
+
+[15] Log closed at 2022-10-03 18:59:11.810290
+
+[7] Log opened at 2022-10-03 19:06:15.339968
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2022-10-03 19:06:15.439185
+
+[8] Log opened at 2022-10-03 19:10:40.251378
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2022-10-03 19:10:40.346134
+
+[7] Log opened at 2022-10-03 19:10:41.264209
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2022-10-03 19:10:41.359758
+
+[44] Log opened at 2022-10-03 19:11:13.125293
+[44] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[44] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[44] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[80] Log opened at 2022-10-03 19:11:15.637119
+[80] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[80] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[80] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[80] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[80] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[80] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[80] Log closed at 2022-10-03 19:11:15.744394
+
+[85] Log opened at 2022-10-03 19:11:15.805289
+[85] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[85] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[85] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[85] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[85] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[85] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[85] Log closed at 2022-10-03 19:11:15.892505
+
+[44] Log closed at 2022-10-03 19:11:15.904938
+
+[8] Log opened at 2022-10-03 19:11:18.929964
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2022-10-03 19:11:19.026369
+
+[7] Log opened at 2022-10-03 19:13:35.553962
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[7] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[7] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[7] Log closed at 2022-10-03 19:13:35.631039
+
+[8] Log opened at 2022-10-03 19:16:41.617895
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] [Step Debug] INFO: Connecting to configured address/port: 192.168.228.1:9003.
+[8] [Step Debug] WARN: Creating socket for '192.168.228.1:9003', poll success, but error: Operation now in progress (29).
+[8] [Step Debug] ERR: Could not connect to debugging client. Tried: 192.168.228.1:9003 (through xdebug.client_host/xdebug.client_port) :-(
+[8] Log closed at 2022-10-03 19:16:41.690446
+

@@ -1,0 +1,7 @@
+ARG VERSION
+
+FROM mysql:${VERSION}
+
+CMD ["mysqld"]
+
+EXPOSE 3306
